@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Arunkumar.github.io/static/css/main.a6dd3e98.css",
-    "main.js": "/Arunkumar.github.io/static/js/main.9e3ed36b.js",
-    "static/media/boy.png": "/Arunkumar.github.io/static/media/boy.0a90eccc8e2c33ee1452.png",
-    "static/media/coding_kumar.png": "/Arunkumar.github.io/static/media/coding_kumar.ee72164236fa063cc4d7.png",
-    "static/media/html_css_js-removebg.png": "/Arunkumar.github.io/static/media/html_css_js-removebg.592ed7ce5312ea6e69f9.png",
-    "static/media/glassesimoji.png": "/Arunkumar.github.io/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
-    "static/media/Fonarto.ttf": "/Arunkumar.github.io/static/media/Fonarto.bec137c055a88d2b7013.ttf",
-    "static/media/react_jspng.png": "/Arunkumar.github.io/static/media/react_jspng.3eb2a88391bb45b0adff.png",
-    "static/media/node.png": "/Arunkumar.github.io/static/media/node.76fa5412aa6d5a64429e.png",
-    "static/media/Vector2.png": "/Arunkumar.github.io/static/media/Vector2.eef8a7c4fae67c6e64f3.png",
-    "static/media/thumbup.png": "/Arunkumar.github.io/static/media/thumbup.e06790ba656f0397cbe5.png",
-    "static/media/humble.png": "/Arunkumar.github.io/static/media/humble.c8b32b53675e68978981.png",
-    "static/media/heartemoji.png": "/Arunkumar.github.io/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
-    "static/media/crown.png": "/Arunkumar.github.io/static/media/crown.dbe416beae9b49b842ab.png",
-    "static/media/glasses.png": "/Arunkumar.github.io/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
-    "static/media/vue-removebg.png": "/Arunkumar.github.io/static/media/vue-removebg.c16ca6829dacae48dfd7.png",
-    "index.html": "/Arunkumar.github.io/index.html",
-    "main.a6dd3e98.css.map": "/Arunkumar.github.io/static/css/main.a6dd3e98.css.map",
-    "main.9e3ed36b.js.map": "/Arunkumar.github.io/static/js/main.9e3ed36b.js.map"
+    "main.css": "/Arunkumar/static/css/main.7890a5d7.css",
+    "main.js": "/Arunkumar/static/js/main.f751513d.js",
+    "static/media/boy.png": "/Arunkumar/static/media/boy.0a90eccc8e2c33ee1452.png",
+    "static/media/coding_kumar.png": "/Arunkumar/static/media/coding_kumar.ee72164236fa063cc4d7.png",
+    "static/media/html_css_js-removebg.png": "/Arunkumar/static/media/html_css_js-removebg.592ed7ce5312ea6e69f9.png",
+    "static/media/glassesimoji.png": "/Arunkumar/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/Fonarto.ttf": "/Arunkumar/static/media/Fonarto.bec137c055a88d2b7013.ttf",
+    "static/media/react_jspng.png": "/Arunkumar/static/media/react_jspng.3eb2a88391bb45b0adff.png",
+    "static/media/node.png": "/Arunkumar/static/media/node.76fa5412aa6d5a64429e.png",
+    "static/media/Vector2.png": "/Arunkumar/static/media/Vector2.eef8a7c4fae67c6e64f3.png",
+    "static/media/thumbup.png": "/Arunkumar/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/Arunkumar/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/Arunkumar/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/crown.png": "/Arunkumar/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/glasses.png": "/Arunkumar/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/vue-removebg.png": "/Arunkumar/static/media/vue-removebg.c16ca6829dacae48dfd7.png",
+    "index.html": "/Arunkumar/index.html",
+    "main.7890a5d7.css.map": "/Arunkumar/static/css/main.7890a5d7.css.map",
+    "main.f751513d.js.map": "/Arunkumar/static/js/main.f751513d.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6dd3e98.css",
-    "static/js/main.9e3ed36b.js"
+    "static/css/main.7890a5d7.css",
+    "static/js/main.f751513d.js"
   ]
 }
